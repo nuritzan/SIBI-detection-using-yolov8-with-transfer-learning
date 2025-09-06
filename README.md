@@ -35,4 +35,5 @@ This project focuses on real-time detection of the Indonesian Sign Language (SIB
 - Real-time detection confidence: > 0.8
 
 ## 🎥 Demo
-The model was tested using a webcam for real-time recognition. Detection proved effective under proper lighting and uncluttered backgrounds, confirming the system’s potential for assistive communication technologies.
+- Real-time Testing Video: [Google Drive Link](https://drive.google.com/file/d/13Wuz8a6SphHQ_7QsloceAfsxtxsoZyfa/view?usp=sharing)
+- The model was tested using a webcam for real-time recognition. Detection proved effective under proper lighting and uncluttered backgrounds, confirming the system’s potential for assistive communication technologies.
