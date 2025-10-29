@@ -14,7 +14,8 @@ This project focuses on real-time detection of the Indonesian Sign Language (SIB
 - Source: [SIBI Dataset](https://www.kaggle.com/datasets/alvinbintang/sibi-dataset)
 - Total images: 5,280
 - Classes: 24 alphabet classes (Excluding J and Z)  
-- Preprocessing steps:  
+- Preprocessing steps:
+  - Annotation & labelling ([View data annotations](https://universe.roboflow.com/nuritzan/deteksi-alfabet-sibi-v2 ))
   - Image resizing to 640×640  
   - Grayscale conversion  
   - Normalization  
